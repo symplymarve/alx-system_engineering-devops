@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -pamv
+103-commas
